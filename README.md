@@ -9,11 +9,11 @@ I'm a data analyst who cleans, models and analyses data, then turns it into inte
 🎯 I'm looking for data analyst opportunities where I can turn data into clear business insights.
 
 ## 🛠️ Skills & Tools
-![Power BI]
-![Excel]
-![Power Query]
-![DAX]
-![Data Visualization]
+Power BI
+Excel
+Power Query
+DAX
+Data Visualization
 
 **Core skills:** Data cleaning · Data modelling · DAX measures · Dashboard design · Pivot tables · Exploratory data analysis · Data storytelling
 
