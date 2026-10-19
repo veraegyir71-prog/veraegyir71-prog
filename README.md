@@ -18,7 +18,7 @@ I'm a Data Analyst at Xpress Gas Limited in Accra, Ghana. I clean, transform and
 
 - 💼 **What I do now:** I analyse receivables data for 300+ customers, build Power BI dashboards and DAX measures to track balances, aging and territory performance, and audit customer and cylinder transactions to keep records accurate.
 - 🧹 **How I work:** I use Power Query to clean and consolidate data from multiple Excel workbooks, so weekly and monthly reporting is consistent and reliable.
-- 📊 **What I've built:** dashboards and analyses covering Netflix content, STEM student performance, Udemy courses, CO2 emissions in Africa, US police shooting data and urban traffic prediction (83% accuracy with a decision tree model).
+- 📊 **What I've built:** dashboards and analyses covering Netflix content, STEM student performance, Udemy courses, CO2 emissions in Africa, US police shooting data and urban traffic prediction (83% accuracy with a decision tree model)
 - 🎯 **What I'm looking for:** data analyst opportunities where I can turn data into clear business insights.
 
 ---
