@@ -17,7 +17,7 @@ I'm a data analyst who cleans, models and analyses data, then turns it into inte
 
 ## 📫 Let's Connect
 - LinkedIn: [linkedin.com/in/vera-egyir](https://www.linkedin.com/in/vera-egyir)
-- Email:(veraegyir71@gmail.com)
+- Email: [veraegyir71@gmail.com](mailto:veraegyir71@gmail.com)
 
 ---
 ⭐ Thanks for visiting my profile!
