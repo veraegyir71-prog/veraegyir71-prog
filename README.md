@@ -13,11 +13,5 @@ I'm a data analyst who cleans, models and analyses data, then turns it into inte
 - **Languages:** SQL, Python
 - **Core skills:** Data cleaning · Data modelling · DAX measures · Dashboard design · Pivot tables · Exploratory data analysis · Data visualization · Data storytelling
 
-
-
-## 📫 Let's Connect
-- LinkedIn: [linkedin.com/in/vera-egyir](https://www.linkedin.com/in/vera-egyir)
-- Email: [veraegyir71@gmail.com](mailto:veraegyir71@gmail.com)
-
 ---
 ⭐ Thanks for visiting my profile!
