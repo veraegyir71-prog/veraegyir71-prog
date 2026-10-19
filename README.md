@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Vera%20Egyir&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Data%20Analyst&descSize=24&descAlignY=65" alt=
-    "Vera Egyir banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=260&section=header&text=Vera%20Egyir&fontSize=60&fontColor=ffffff&fontAlignY=34&animation=fadeIn&desc=Data%20Analyst&descSize=24&descAlignY=60" alt="Vera Egyir banner" />
 </p>
 
 <p align="center">
@@ -18,6 +17,8 @@
 I'm a Data Analyst at Xpress Gas Limited in Accra, Ghana. I clean, transform and analyse business data, then turn it into dashboards and insights that help management make decisions. My background in warehouse operations, administration and mathematics education gives me a practical, detail-focused approach to data.
 
 - 💼 **What I do now:** I analyse receivables data for 300+ customers, build Power BI dashboards and DAX measures to track balances, aging and territory performance, and audit customer and cylinder transactions to keep records accurate.
+- 🧹 **How I work:** I use Power Query to clean and consolidate data from multiple Excel workbooks, so weekly and monthly reporting is consistent and reliable.
+- 📊 **What I've built:** dashboards and analyses covering Netflix content, STEM student performance, Udemy courses, CO2 emissions in Africa, US police shooting data and urban traffic prediction (83% accuracy with a decision tree model).
 - 🎯 **What I'm looking for:** data analyst opportunities where I can turn data into clear business insights.
 
 ---
@@ -54,7 +55,7 @@ I'm a Data Analyst at Xpress Gas Limited in Accra, Ghana. I clean, transform and
 - Generation AI Generalist: AI at Work, Generation Ghana, 2026
 - Data Analysis (Introduction to Excel & Power BI), TECH4DEV, 2025
 
-
+---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" alt="footer" />
